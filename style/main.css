@@ -1,0 +1,26 @@
+/* main.php */
+.top_message {
+    display: flex;
+    background-color:green;
+}
+
+.top_message p {
+    margin: 0 0 0 auto;
+    color:white
+}
+
+.top_message p > a {
+    text-decoration:none;
+    background-color: gray;
+    border-radius: 20px;
+    color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.toukou_text {
+    background-color: gray;
+    margin: 15px 0;
+}
+
+/*  */
